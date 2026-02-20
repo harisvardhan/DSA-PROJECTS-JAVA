@@ -1,0 +1,5 @@
+Calculus is a branch of mathematics that studies continuous change.
+Topics include limits, derivatives, integrals, and infinite series.
+Calculus was developed by Newton and Leibniz independently.
+Derivatives measure how a function changes at any given point.
+Integrals calculate the area under a curve.

@@ -1,0 +1,5 @@
+Java is a popular programming language used for building applications.
+It uses Object Oriented Programming principles like inheritance and polymorphism.
+Java programs are compiled into bytecode that runs on the Java Virtual Machine.
+Common data structures in Java include ArrayList, HashMap, and HashSet.
+Java is platform independent which means write once run anywhere.

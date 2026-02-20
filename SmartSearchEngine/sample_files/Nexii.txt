@@ -1,0 +1,3 @@
+Helllo this is Nexii 
+I have made a simple project which finds the words in  a file and in end helps you find the file
+if you know any word inside your file then you can find that file 

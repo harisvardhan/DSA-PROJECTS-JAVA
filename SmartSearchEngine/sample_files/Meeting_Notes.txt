@@ -1,0 +1,5 @@
+Meeting with the project team on Monday at 10am.
+Discussed the new feature roadmap and upcoming deadlines.
+Action items: update the database schema and fix login bug.
+Next meeting is scheduled for Friday at 2pm.
+Attendees: Haris, Ali, Sara.
